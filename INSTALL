@@ -1,0 +1,9 @@
+Building eSilver
+
+See doc/readme-qt.rst for instructions on building eSilver QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of eSilver.
+
+See doc/build-*.txt for instructions on building esilverd,
+the intended-for-services, no-graphical-interface, reference
+implementation of eSilver.
